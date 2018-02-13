@@ -1,2 +1,0 @@
-# rat
-A Twine game
